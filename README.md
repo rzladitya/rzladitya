@@ -19,7 +19,7 @@
 
 
 ## About ::
-  I'm less 1 years experience at Data Science. Passionate about Data Science, Machine Learning and open source.
+  I'm more 1 years experience at Data Science. Passionate about Data Science, Machine Learning and open source.
    
    
 ## Technologies 🔥🔥
