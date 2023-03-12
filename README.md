@@ -46,7 +46,7 @@
 
 
 
-<a href="https://github.com/hujikan2">
+<a href="https://github.com/rzladitya">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hujikan2&theme=radical&hide=glsl,python" />
 </a>
 
