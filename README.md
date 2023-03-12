@@ -52,7 +52,7 @@
 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=hujikan2&&show_icons=true&theme=radical&line_height=27&v=5" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=rzladitya&&show_icons=true&theme=radical&line_height=27&v=5" alt="GitHub Stats" />
 
 ##  Let's connect :speech_balloon:
 [![Linkedin Badge](https://img.shields.io/badge/-Rizal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rzladitya/)](https://www.linkedin.com/in/gorasiyaneel/)
